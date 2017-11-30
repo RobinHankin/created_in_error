@@ -2,6 +2,8 @@
 layout: default
 ---
 
+This is README.md.
+
 Text can be **BOLD** (also in caps), _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
