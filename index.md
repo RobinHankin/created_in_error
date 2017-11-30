@@ -2,6 +2,8 @@
 layout: default
 ---
 
+This is index.md
+
 Text can be **bold**, IS THIS CAPS?  _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
