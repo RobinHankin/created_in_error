@@ -1,7 +1,7 @@
 Package: skimpy
 Type: Package
-Title: Fast multiplication of sparse multivariate polynomials   WITH A NEW FEATURE
-Version: 1.0-0
+Title: Fast multiplication of sparse multivariate polynomials
+Version: 1.0-1
 Date: 2017-05-18
 Author: Robin K. S. Hankin
 Maintainer: Robin K. S. Hankin <hankin.robin@gmail.com>
