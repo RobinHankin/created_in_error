@@ -4,6 +4,8 @@ layout: default
 
 This is index.md
 
+I do not want this text to apper.
+
 Text can be **bold**, IS THIS CAPS?  _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
